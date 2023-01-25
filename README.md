@@ -23,7 +23,7 @@ note: this gmail will be used for sending mails
 #### Step 7:
 now you can simply select spamming and give the correct input
 #### Step 8:
-Always exit the program using option 3. Exit<br/>
+Always exit the program using option 4. Exit<br/>
 in that you have 2 options<br/>
 1. save the gmail and your password. When you again run application you don't need to initialize.
 2. Don't save gamil and password. You need to initialize when you run program for next time.
