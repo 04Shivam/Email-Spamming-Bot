@@ -21,7 +21,8 @@ while running for first time you need to choose initialize option first
 enter gmail and app password that you have generated<br/>
 note: this gmail will be used for sending mails
 #### Step 7:
-now you can simply select spamming and give the correct input
+now you can simply select spamming and give the correct input<br/>
+This bot takes multi lines message so in order to start sending mail you need to hit enter then write "send" again hit enter.
 #### Step 8:
 Always exit the program using option 4. Exit<br/>
 in that you have 2 options<br/>
